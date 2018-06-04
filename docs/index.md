@@ -15,10 +15,17 @@ compiling on the Beagle
   
 2. [Case Studies](02case/case.md)
   * Robotics Control Library
+     * Problem: How do I add 8 extra PWM/PPM outputs?
+     * Problem: How do I add an extra quadrature encoder input?
   * LEDscape
+     * Problem: How do I control 256x256 shift-register based RGB LEDs with 8 levels of brightness?
   * MachineKit
+     * Problem: How do I control a 5-axis CNC mill?
   * ArduPilot
+     * Problem: How do I add 8 extra PWM/PPM outputs?
+     * Problem: How do I detect and process various RC signals?
   * BeagleLogic
+     * Problem: How do I sample 14 signals at 100MHz and store to DDR for protocol/logic analysis?
   
 3. [Details on compiling and running a file](03details/details.md)
   * The standard Makefile
